@@ -1,5 +1,4 @@
 import turtle
-
 max_length = 250
 increment = 10
 
